@@ -1,0 +1,26 @@
+.product-dashboard{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(137,137,255);
+    display: flex;
+}
+.pro-forms{
+    margin-left: 440px;
+    margin-top: 60px;
+}
+.table{
+    margin-top: 60px;
+}
+.pr{
+    margin-left: 33%;
+    margin-top: 30px;
+}
+.input-submit{
+    background-color: black;
+    color: whitesmoke;
+}
+.sb{
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
